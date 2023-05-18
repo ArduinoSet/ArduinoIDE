@@ -1,5 +1,4 @@
-# ArduinoIDE - Среда разработки программного обеспечения для конструктов на основе плат Arduino
-ИНСТРУКЦИЯ ПО УСТАНОВКЕ ArduinoIDE
+# ИНСТРУКЦИЯ ПО УСТАНОВКЕ ArduinoIDE
 1. Скачиваем архив
 
 ![1](https://github.com/ArduinoSet/ArduinoIDE/assets/21033375/c50be13c-a66d-4b92-be60-c3512ab27830)
